@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/batata/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/batata/static/js/main.c6bdc6f1.chunk.js",
+    "main.js.map": "/batata/static/js/main.c6bdc6f1.chunk.js.map",
+    "runtime-main.js": "/batata/static/js/runtime-main.59289ae7.js",
+    "runtime-main.js.map": "/batata/static/js/runtime-main.59289ae7.js.map",
+    "static/js/2.9e5a8642.chunk.js": "/batata/static/js/2.9e5a8642.chunk.js",
+    "static/js/2.9e5a8642.chunk.js.map": "/batata/static/js/2.9e5a8642.chunk.js.map",
+    "static/js/3.0cef4e02.chunk.js": "/batata/static/js/3.0cef4e02.chunk.js",
+    "static/js/3.0cef4e02.chunk.js.map": "/batata/static/js/3.0cef4e02.chunk.js.map",
+    "index.html": "/batata/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/batata/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.9e5a8642.chunk.js.LICENSE.txt": "/batata/static/js/2.9e5a8642.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/batata/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59289ae7.js",
+    "static/js/2.9e5a8642.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.c6bdc6f1.chunk.js"
+  ]
+}
