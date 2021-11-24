@@ -1,6 +1,6 @@
 import React from 'react'
 import './ManagerOrderList.css'
-import { devUrl } from '../../../config/index'
+import { devUrl } from './../../../config/index'
 import { Route, Switch, NavLink, Link } from 'react-router-dom'
 
 function ManagerOrderList(props) {
